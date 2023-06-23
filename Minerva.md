@@ -7,4 +7,4 @@
    > 
    > Password: your_Sinai_password123456 
 ```
-where 123456 represents the numeric sequence obtained from your VIP Symantec token
+      where 123456 represents the numeric sequence obtained from your VIP Symantec token
