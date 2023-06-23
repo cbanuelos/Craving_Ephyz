@@ -3,8 +3,8 @@
 
 
 ### Based on:
-[@seqasim's](https://github.com/seqasim/LFPAnalysis)  LFP Analysis Models & 
-[@kulkarnik's](https://github.com/kulkarnik/bayesian-craving-models)  Bayesian Craving Models
+[@seqasim](https://github.com/seqasim/LFPAnalysis)'s  LFP Analysis Models & 
+[@kulkarnik](https://github.com/kulkarnik/bayesian-craving-models)'s  Bayesian Craving Models
 
 ### Table of Contents:
   * [Craving Data Ephyz LFP Analysis](/CB_Craving_LFP_Analysis.ipynb)
