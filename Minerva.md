@@ -5,6 +5,6 @@
    ```
    > ssh your_userid@minerva.hpc.mssm.edu
    > 
-   > Password: your_Sinai_password123456
-```
+   > Password: your_Sinai_password123456 ```
+
 where 123456 represents the numeric sequence obtained from your VIP Symantec token
