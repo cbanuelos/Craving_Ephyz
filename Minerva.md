@@ -3,6 +3,7 @@
 3. Get added to a private node & lab (e.g. ask Matt Heflin or lab manager for info)
 4. [Login](https://labs.icahn.mssm.edu/minervalab/minerva-quick-start/)
    > ssh your_userid@minerva.hpc.mssm.edu
-   > Password: > your_Sinai_password123456
+   > 
+   > Password: your_Sinai_password123456
 
 where 123456 represents the numeric sequence obtained from your VIP Symantec token
