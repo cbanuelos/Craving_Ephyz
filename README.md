@@ -3,10 +3,10 @@
 
 
 # Based on:
-[@seqasim's LFP Analysis Models](https://github.com/seqasim/LFPAnalysis)
+[@seqasim's LFP Analysis Models](https://github.com/seqasim/LFPAnalysis) & 
 [@kulkarnik's Bayesian Craving Models](https://github.com/kulkarnik/bayesian-craving-models)
 
 # Table of Contents:
-  * ** [Craving Data Ephyz LFP Analysis](/Cristy's Craving LFP Analysis.ipynb)
+  * ** [Craving Data Ephyz LFP Analysis](/CB_Craving_LFP_Analysis.ipynb)
   * ** [Craving + Bayesian Models Analysis](TBD)
   * ** [Minerva walkthrough](TBD)
