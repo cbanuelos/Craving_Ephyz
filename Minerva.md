@@ -11,3 +11,13 @@
 
 5. ```cd``` into your project dir (i.e. ```/sc/arion/projects/guLab/Cristy/```)
      if you don't have your own project folder navigate to your lab and ```mkdir projectName``` to make your own project dir
+
+6. move your data into your project dir
+```
+   > scp localusername@123.456.789:your/path/to/your/data sc/arion/projects/Cristy/EMU
+```
+8. move your LFPAnalysis into your main user space (i.e. ```/hpc/users/banuec01/resources/LFPAnalysis```)
+9. to launch your jupyter notebook:
+```
+> minerva-jupyter-module-web.sh
+```
