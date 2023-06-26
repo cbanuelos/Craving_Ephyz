@@ -16,8 +16,14 @@
 ```
    > scp localusername@123.456.789:your/path/to/your/data sc/arion/projects/Cristy/EMU
 ```
+
 8. move your LFPAnalysis into your main user space (i.e. ```/hpc/users/banuec01/resources/LFPAnalysis```)
-9. to launch your jupyter notebook:
+   
+10. to launch your jupyter notebook run with a sufficient amount of extra memory:
 ```
-> minerva-jupyter-module-web.sh
+> minerva-jupyter-module-web.sh -M 10000
 ```
+
+11. follow this [Minerva guide](https://labs.icahn.mssm.edu/minervalab/documentation/python-and-jupyter-notebook/) to make sure your python and dependencies are all pip installed
+
+12. navigate to ```/sc/arion/work/banuec01/```
