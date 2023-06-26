@@ -8,3 +8,6 @@
    > Password: your_Sinai_password123456 
 ```
    where 123456 represents the numeric sequence obtained from your VIP Symantec token
+
+5. ```cd``` into your project dir (i.e. ```/sc/arion/projects/guLab/Cristy/```)
+     if you don't have your own project folder navigate to your lab and ```mkdir projectName``` to make your own project dir
