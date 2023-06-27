@@ -27,7 +27,7 @@ Getting started with Minerva Guide
    
 8. to launch your jupyter notebook & run it with a sufficient amount of extra memory:
 ```
-> minerva-jupyter-module-web.sh -M 10000
+   > minerva-jupyter-module-web.sh -M 10000
 ```
 
 9. follow this [Minerva guide](https://labs.icahn.mssm.edu/minervalab/documentation/python-and-jupyter-notebook/) to make sure your python and dependencies are all pip installed
