@@ -20,8 +20,9 @@ Getting started with Minerva Guide
 
 6. move your data into your project dir
 ```
-   > scp -r localusername@123.456.789:your/path/to/your/data sc/arion/projects/yourName/EMU
+   > scp -r yourLocalUsername@123.456.789:your/path/to/your/data sc/arion/projects/yourName/EMU
 ```
+where 123.456.789 represents your IP address
 
 7. move your LFPAnalysis into your main user space (i.e. ```/hpc/users/yourSinaiID/resources/LFPAnalysis```)
    
