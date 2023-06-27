@@ -9,7 +9,7 @@ Getting started with Minerva Guide
    
 4. [Login](https://labs.icahn.mssm.edu/minervalab/minerva-quick-start/)
 ```
-   > ssh yourUserID@minerva.hpc.mssm.edu
+   > ssh yourSinaiID@minerva.hpc.mssm.edu
    > 
    > Password: yourSinaiPassword123456 
 ```
