@@ -1,4 +1,4 @@
-Getting started with Minerva Guide
+Getting started with Minerva
 ---
 
 1. [Make Minverva account](https://acctreq.hpc.mssm.edu)
