@@ -5,7 +5,7 @@ Getting started with Minerva
    
 2. Activate your account: sign [HIPAA form](https://hipaaforms.hpc.mssm.edu), and email [hpchelp@hpc.mssm.edu](hpchelp@hpc.mssm.edu) for activation/confirmation
    
-3. Get added to a private node & lab (e.g. ask [Matt Heflin](matthew.heflin@mssm.edu) or lab manager for info)
+3. Get added to a private node & lab (e.g. ask [Matt Heflin](matthew.heflin@mssm.edu) or your own lab manager for info)
    
 4. [Login](https://labs.icahn.mssm.edu/minervalab/minerva-quick-start/)
 ```
