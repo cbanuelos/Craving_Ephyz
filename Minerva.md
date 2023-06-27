@@ -31,7 +31,7 @@ where 123.456.789 represents your local IP address
    > minerva-jupyter-module-web.sh -M 10000
 ```
 
-9. follow this [Minerva guide](https://labs.icahn.mssm.edu/minervalab/documentation/python-and-jupyter-notebook/) to make sure your python and dependencies are all pip installed
+9. follow this [Sinai Minerva guide](https://labs.icahn.mssm.edu/minervalab/documentation/python-and-jupyter-notebook/) to make sure your python and dependencies are all pip installed
 
 10. you may also use ```/sc/arion/work/yourName/``` for any temp files/additional work space
 
