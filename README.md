@@ -10,4 +10,4 @@ Work based on [@seqasim](https://github.com/seqasim/LFPAnalysis)'s  LFP Analysis
 ### Table of Contents:
   * [Craving Data Ephyz LFP Analysis](/CB_Craving_LFPAnalysis.ipynb)
   * [Craving + Bayesian Models Analysis](TBD)
-  * [Minerva walkthrough](/Minerva.md)
+  * [Getting started with Minerva](/Minerva.md)
