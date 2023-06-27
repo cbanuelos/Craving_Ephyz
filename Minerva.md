@@ -1,3 +1,6 @@
+Getting started with Minerva Guide
+---
+
 1. [Make Minverva account](https://acctreq.hpc.mssm.edu)
    
 2. Activate your account: sign [HIPAA form](https://hipaaforms.hpc.mssm.edu), and email [hpchelp@hpc.mssm.edu](hpchelp@hpc.mssm.edu) for activation/confirmation
