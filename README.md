@@ -2,7 +2,7 @@
 2023 Summer Rotation Project with Dr. Xiaosi Gu &amp; Dr. Ignacio Saez: Craving + 2 Armed-bandit Task and RL Modeling with Ephyz LFP Analysis
 
 
-Work based on [@seqasim](https://github.com/seqasim/LFPAnalysis)'s  LFP Analysis Models & 
+Work based on [@seqasim](https://github.com/seqasim/LFPAnalysis)'s  LFP Analysis & 
 [@kulkarnik](https://github.com/kulkarnik/bayesian-craving-models)'s  Bayesian Craving Models
 
 ---
