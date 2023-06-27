@@ -7,7 +7,7 @@ Getting started with Minerva
    
 3. Get added to a private node & lab (e.g. ask [Matt Heflin](matthew.heflin@mssm.edu) or your own lab manager for info)
    
-4. [Login](https://labs.icahn.mssm.edu/minervalab/minerva-quick-start/)
+4. [Login](https://labs.icahn.mssm.edu/minervalab/minerva-quick-start/) to Minerva through terminal:
 ```
    > ssh yourSinaiID@minerva.hpc.mssm.edu
    > 
