@@ -28,5 +28,8 @@
 
 12. navigate to ```/sc/arion/work/banuec01/```
 
+
+---
 notes:
+
 myUser@IP = cristybanuelos@10.125.149.1
