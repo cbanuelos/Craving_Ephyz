@@ -38,4 +38,4 @@ Getting started with Minerva Guide
 ---
 notes:
 
-myUser@IP = cristybanuelos@10.125.149.1
+cristybanuelos@10.125.149.1
