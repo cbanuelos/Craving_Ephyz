@@ -19,7 +19,7 @@
 
 8. move your LFPAnalysis into your main user space (i.e. ```/hpc/users/banuec01/resources/LFPAnalysis```)
    
-10. to launch your jupyter notebook run with a sufficient amount of extra memory:
+10. to launch your jupyter notebook & run it with a sufficient amount of extra memory:
 ```
 > minerva-jupyter-module-web.sh -M 10000
 ```
