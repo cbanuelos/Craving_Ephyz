@@ -20,7 +20,7 @@ Getting started with Minerva
 
 6. move your data into your project dir
 ```
-   > scp -r yourLocalUsername@123.456.789:your/path/to/your/data sc/arion/projects/yourName/EMU
+   > scp -r yourLocalUsername@123.456.789:your/path/to/your/data sc/arion/projects/yourLab/yourName/EMU
 ```
 where 123.456.789 represents your local IP address
 
