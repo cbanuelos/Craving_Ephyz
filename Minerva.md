@@ -41,3 +41,8 @@ where 123.456.789 represents your local IP address
 module load anaconda3/2024.06 #may not be needed
 conda activate LFPAnalysis
 ```
+
+* how to install packages with user only privileges (minerva environment)
+```
+pip install --user pycatch22
+```
